@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem 'jekyll-scholar', group: :jekyll_plugins
 gem "jekyll-pdf-embed", group: :jekyll_plugins
+gem "jekyll-remote-theme", group: :jekyll_plugins
