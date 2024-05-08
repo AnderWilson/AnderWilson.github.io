@@ -21,7 +21,7 @@ order: 3
     - heterogenious distributed lag models
     - treed distributed lag mixture models
 - The ```dlmtree``` package is available on [GitHub](https://github.com/danielmork/dlmtree).
-- See the package page for details and examples: [anderwilson.github.io/bdlim](https://anderwilson.github.io/bdlim/).
+- See the package page for details and examples: [danielmork.github.io/dlmtree](https://danielmork.github.io/dlmtree/).
 
 ```dlim```
 - Joint work with Danielle Demateis and Kayleigh Keller. 
