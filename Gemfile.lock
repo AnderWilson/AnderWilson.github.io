@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/minima.git
-  revision: 10124515953527c8990a2de99ae4ddb2a81ffee3
+  revision: 2083f6e675fa3c31d94bb42a6171562d40ab3527
   specs:
     minima (3.0.0.dev)
       jekyll (>= 3.5, < 5.0)
@@ -112,6 +112,7 @@ PLATFORMS
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
+  jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
   jekyll-pdf-embed
   jekyll-remote-theme
