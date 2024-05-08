@@ -1,13 +1,11 @@
 ---
 layout: page-no-title
 title: About
-permalink: /about/
 permalink: 
 ---
 
 
 ![Ander](/pics/ander_head_shot_2021.jpeg){:width="200px" style="float: left;margin-right: 20px;margin-top: 0px; border-radius: 50%;"}
-
 
 I am Associate Professor in the [Department of Statistics](http://www.stat.colostate.edu/) at Colorado State University. 
 He is a faculty member in the [Partnership on Air Quality Climate and Health (PACH)](https://www.research.colostate.edu/pach/) at CSU and organizes the [environmental biostatistics working group](https://envbiostat-csu.github.io) at CSU.

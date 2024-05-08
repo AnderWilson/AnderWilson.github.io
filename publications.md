@@ -1,8 +1,7 @@
 ---
 layout: page-no-title
 title: Publications
-permalink: /Publications/
-order: 3
+permalink: /publications/
 ---
 
 

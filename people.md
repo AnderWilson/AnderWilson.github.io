@@ -1,8 +1,7 @@
 ---
 layout: page-no-title
 title: People
-permalink: /People/
-order: 2
+permalink: /people/
 ---
 
 
