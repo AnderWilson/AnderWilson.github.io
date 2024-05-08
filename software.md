@@ -1,7 +1,7 @@
 ---
 layout: page-no-title
 title: Software
-permalink: /software/
+permalink: /Software/
 ---
 
 ## R Packages
