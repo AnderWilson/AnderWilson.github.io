@@ -5,6 +5,6 @@ permalink: /cv/
 ---
 
 
-{% pdf "/docs/CV.pdf" no_link height=955px %}
+{% pdf "/cv/CV.pdf" no_link height=955px %}
 
 
