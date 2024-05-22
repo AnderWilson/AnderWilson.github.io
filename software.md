@@ -9,9 +9,8 @@ permalink: /Software/
 
 ```bdlim```
 - Functions to implement Bayesian Distributed Lag Interaction Models.
-- The ```bdlim``` package is available on [GitHub](https://github.com/AnderWilson/bdlim).
+- The ```bdlim``` package is available on [CRAN](https://CRAN.R-project.org/package=bdlim) and [GitHub](https://github.com/AnderWilson/bdlim).
 - See the package page for details and examples: [anderwilson.github.io/bdlim](https://anderwilson.github.io/bdlim/).
-
 
 ```dlmtree```
 - Joint work with Daniel Mork and Seongwon Im. 
@@ -25,7 +24,7 @@ permalink: /Software/
 ```dlim```
 - Joint work with Danielle Demateis and Kayleigh Keller. 
 - Functions to distributed lag interaction models for continuous modifiers using penalized and natrual spline implementations. 
-- The ```dlim``` package is available on [CRAN](https://cran.r-project.org/web/packages/dlim/index.html) and [GitHub](https://github.com/ddemateis/dlim).
+- The ```dlim``` package is available on [CRAN](https://CRAN.R-project.org/package=dlim) and [GitHub](https://github.com/ddemateis/dlim).
 - See the package page for details and examples: [ddemateis.github.io/dlim](https://ddemateis.github.io/dlim/).
 
 
