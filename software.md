@@ -18,7 +18,7 @@ permalink: /Software/
     - treed distributed lag models
     - heterogenious distributed lag models
     - treed distributed lag mixture models
-- The ```dlmtree``` package is available on [GitHub](https://github.com/danielmork/dlmtree).
+- The ```dlmtree``` package is available on [CRAN](https://CRAN.R-project.org/package=dlmtree) and [GitHub](https://github.com/danielmork/dlmtree).
 - See the package page for details and examples: [danielmork.github.io/dlmtree](https://danielmork.github.io/dlmtree/).
 
 ```dlim```
