@@ -7,6 +7,21 @@ permalink: /People/
 
 ## Doctoral Students
 
+![Tristan](/pics/tristan.png){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
+<br/>
+[**Tristan Contant**](https://statistics.colostate.edu/person/?id=CAA667A98C521EA4A5845C01388766F6&sq=t/), PhD Student (Joint with [Yawen Guan](https://yawenguan.github.io))
+
+<br>
+{:style="clear: left"}
+
+
+![Wentao](/pics/wentao.jpeg){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
+<br/>
+[**Wentao Guo**](https://statistics.colostate.edu/person/?id=29A158AA179CAA7A8C5979E7177091BE&sq=t), PhD Student
+
+<br>
+{:style="clear: left"}
+
 ![Brody](/pics/brody.png){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
 <br/>
 [**Brody Elderson**](https://brodyee.github.io/), PhD Student (Joint with [Matthew Koslovsky](https://mkoslovsky.github.io))
@@ -33,19 +48,22 @@ permalink: /People/
 
 
 
-![Seongwon](/pics/seongwon.jpeg){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
-<br/>
-[**Seongwon Im**](https://seongwonim.github.io), PhD Student  
-  
-<br>
-{:style="clear: left"}
-
-
 
 
 
 
 ## Alumni
+
+
+
+![Seongwon](/pics/seongwon.jpeg){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
+<br/>
+[**Seongwon Im**](https://seongwonim.github.io), PhD 2024  
+Thesis: *Bayesian Tree Based Methods for Longitudinally Assessed Environmental Mixtures*  
+
+
+<br>
+{:style="clear: left"}
 
 
 
