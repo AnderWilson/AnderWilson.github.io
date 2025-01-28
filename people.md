@@ -24,7 +24,7 @@ permalink: /People/
 
 ![Brody](/pics/brody.png){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
 <br/>
-[**Brody Elderson**](https://brodyee.github.io/), PhD Student (Joint with [Matthew Koslovsky](https://mkoslovsky.github.io))
+[**Brody Erlandson**](https://brodyee.github.io/), PhD Student (Joint with [Matthew Koslovsky](https://mkoslovsky.github.io))
 
 <br>
 {:style="clear: left"}
