@@ -69,7 +69,6 @@ minima:
     - { platform: github,         user_url: "https://github.com/anderwilson" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=iM-SVxsAAAAJ" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/anderwilson" }
-    - { platform: twitter,        user_url: "https://twitter.com/ander_wilson" }
   
 
 google_analytics: G-YRZZ9BR6V4
