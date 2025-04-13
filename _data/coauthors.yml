@@ -16,6 +16,11 @@
   - firstname: ["Brent", "Brent A", "Brent A."]
     url: https://www.hsph.harvard.edu/brent-coull/
 
+  
+"Colicino":
+  - firstname: ["Elena"]
+    url: https://profiles.mountsinai.org/elena-colicino
+
 "Demateis":
   - firstname: ["Danielle", "D"]
     url: https://statistics.colostate.edu/person/?id=716F163276491F28A64231323EB0C0BF&sq=t
@@ -37,12 +42,12 @@
   url: https://www.mountsinai.org/profiles/hsiao-hsien-l-hsu
 
 "Keller":
-  - firstname: ["Kayleigh", "K"]
+  - firstname: ["Kayleigh", "K", "Kayleigh P.", "Kayleigh K"]
     url: http://kellerbiostat.com/
     
 "Kioumourtzoglou":
   - firstname: ["Marianthi-Anna", "Marianthi", "M"]
-    url: https://www.publichealth.columbia.edu/people/our-faculty/mk3961
+    url: https://www.publichealth.columbia.edu/profile/marianthi-anna-kioumourtzoglou
     
 "Koslovsky":
   - firstname: ["Matthew D", "Matthew", "M"]
