@@ -38,21 +38,22 @@ permalink: /People/
 
 
 
-![Danielle](/pics/danielle.jpeg){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
-<br/>
-[**Danielle Demateis**](https://statistics.colostate.edu/person/?id=716F163276491F28A64231323EB0C0BF&sq=t), PhD Student 
-  (Joint with [Kayleigh Keller](https://www.kellerbiostat.com))  
-  
-<br>
-{:style="clear: left"}
-
-
 
 
 
 
 
 ## Alumni
+
+
+![Danielle](/pics/danielle.jpeg){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
+<br/>
+[**Danielle Demateis**](https://statistics.colostate.edu/person/?id=716F163276491F28A64231323EB0C0BF&sq=t), PhD Student 
+  (Joint with [Kayleigh Keller](https://www.kellerbiostat.com))  
+Thesis: *Methods for Effect Modification with Multivariate Environmental Exposures*
+
+<br>
+{:style="clear: left"}
 
 
 
