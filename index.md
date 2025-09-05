@@ -15,15 +15,7 @@ During that time, he was an ORISE fellow at the US Environmental Protection Agen
 He was a Postdoctoral Research Fellow in the Department of Biostatistics at the Harvard T.H. Chan School of Public Health. 
 
 Ander's research is motivated by  scientific problems primarily in the area of environmental health. 
-He develops statistical methodology and software to analyze complex datasets and answer emerging questions. 
-He also collaborates with researchers in environmental health and other fields. 
-Current areas of research includes:
-  - Health effects of exposure to environmental mixtures
-  - Precision environmental health
-  - Effect heterogeneity
-  - Health effects of maternal exposure to chemicals on birth and children's health outcomes
-  - Bayesian methods
-  - Machine learning
-  - Health effects of wildfire smoke exposure
+He develops statistical methodology and software to analyze complex datasets and answer emerging questions. He is the principal investigator a NIEHS R01 on statistical methods (R01ES035735) and a co-investigator on several other grants from NIH and NSF.
+He collaborates broadly with researchers in environmental health and other fields. 
 
   
