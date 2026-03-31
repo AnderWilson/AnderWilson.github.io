@@ -29,6 +29,10 @@
   - firstname: ["Francesca", "F", "F."]
     url: https://hsph.harvard.edu/profile/francesca-dominici/
 
+"Erlandson": 
+  - firstname: ["Brody"]
+    url: https://brodyee.github.io
+
 "Fosdick": 
   - firstname: ["Bailey", "Bailey K", "Bailey K."]
     url: https://www.baileyfosdick.com/
@@ -58,7 +62,7 @@
     url: https://vivo.brown.edu/display/mkioumou
     
 "Koslovsky":
-  - firstname: ["Matthew D", "Matthew", "M"]
+  - firstname: ["Matthew D", "Matthew D.", "Matthew", "M"]
     url: https://mkoslovsky.github.io
     
 "McGee":
