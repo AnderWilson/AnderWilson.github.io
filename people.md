@@ -48,7 +48,7 @@ permalink: /People/
 
 ![Danielle](/pics/danielle.jpeg){:width="150px"  style="float: left; border-radius: 50%;  width: 150px; height: 150px; padding-right: 20px;"}
 <br/>
-[**Danielle Demateis**](https://statistics.colostate.edu/person/?id=716F163276491F28A64231323EB0C0BF&sq=t), PhD Student 
+[**Danielle Demateis**](https://statistics.colostate.edu/person/?id=716F163276491F28A64231323EB0C0BF&sq=t), PhD 2025 
   (Joint with [Kayleigh Keller](https://www.kellerbiostat.com))  
 Thesis: *Methods for Effect Modification with Multivariate Environmental Exposures*
 
@@ -83,7 +83,7 @@ Next position: Western EcoSystems Technology, Inc. (WEST)
 [**Lauren Hoskovec**](https://lvheck.wixsite.com/laurenhoskovec), PhD 2022  
   Thesis: *Bayesian Methods for Environmental Exposures: Mixtures and Missing Data*  
   Next position: Western EcoSystems Technology, Inc. (WEST)  
-  Current position: Research Scientist at [National Resource Ecology Lab, CSU](https://www.nrel.colostate.edu)
+  Current position: Research Scientist at [Natural Resource Ecology Lab, CSU](https://www.nrel.colostate.edu)
   
 
 <br>
@@ -94,7 +94,7 @@ Next position: Western EcoSystems Technology, Inc. (WEST)
 <br/>
 [**Daniel Mork**](https://danielmork.github.io), PhD 2021  
   Thesis: *Treed Distributed Lag Models*  
-  Next position: Postdoctoral Fellow at Harvard School of Public Health  
+  Next position: Postdoctoral Fellow at Harvard T.H. Chan School of Public Health  
 
 
 
@@ -102,9 +102,9 @@ Next position: Western EcoSystems Technology, Inc. (WEST)
 {:style="clear: left"}
 
 **Emily Williams**, MS 2020 (Joint with Zach Weller)  
-  Now Data Scientist at Southern Cross.
+  Next position: Data Scientist at Southern Cross.
 
 **Olivia Beck**, BS 2020  
   Undergrad thesis: *College safe ride programs: Bayesian analysis of ridership with safe ride home versus anywhere policies*  
-  Now PhD Student in Statistics at Penn State University
+  Next position: PhD Student in Statistics at Penn State University
 
